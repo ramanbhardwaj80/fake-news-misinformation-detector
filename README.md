@@ -35,5 +35,24 @@ This project proposes an NLP-based fake news detection system that classifies ne
 - Integration with fact-checking platforms (AltNews, BoomLive)
 - Browser extension or messaging app integration
 
-## Team
-- BRAINSTORMERS
+- ## Team
+**BRAINSTORMERS**
+
+- **Shubham Chaudhary** – Team Lead  
+- **Raman Sharma**  
+- **Arjun Srivastav**
+
+---
+
+## Hackathon Context
+This project was developed as part of a hackathon focused on solving real-world social problems using AI for public good. The team collaborated on problem analysis, solution design, documentation, and prototype planning.
+
+## Project Stage
+This repository represents an **early-stage hackathon prototype**.  
+The focus is on:
+- Clear problem definition
+- Feasible AI-based solution
+- Scalable system design
+
+Model implementation and deployment are planned as next steps.
+
